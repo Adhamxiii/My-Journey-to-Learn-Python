@@ -25,6 +25,26 @@ Pandas is the world's most popular Python library, used for everything from data
 
 I'm excited to continue my learning journey and dive deeper into the world of Python programming. Stay tuned for more updates and lessons!
 
+### Lesson 2: Slicing and Indexing, Creating and Visualizing DataFrames
+
+In Lesson 2, I've explored essential techniques for slicing and indexing data in pandas DataFrames. I've also delved into the creation and visualization of DataFrames, gaining insights through visual representations of the data.
+
+#### Slicing and Indexing
+
+- Understanding explicit indexes and their significance.
+- Using `set_index()` and `reset_index()` to modify DataFrame indexes.
+- Working with multi-level or hierarchical indexes.
+- Slicing and subsetting with `.loc[]` and `.iloc[]` methods.
+- Working with pivot tables to summarize data and calculate statistics.
+
+#### Creating and Visualizing DataFrames
+
+- Visualizing data using various plot types such as bar, line, scatter, and histograms.
+- Analyzing changes in sales over time and supply-demand relationships.
+- Handling missing values using `isna()` and `isna().any()` methods.
+
+Stay tuned for more as I continue to enhance my Python skills and explore new concepts!
+
 ## How to Use This Repository
 
 - Each lesson will be documented in its own folder.
