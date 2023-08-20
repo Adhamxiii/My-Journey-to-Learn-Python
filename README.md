@@ -45,6 +45,16 @@ In Lesson 2, I've explored essential techniques for slicing and indexing data in
 
 Stay tuned for more as I continue to enhance my Python skills and explore new concepts!
 
+### Lesson 3: Joining Data with Pandas
+
+In Lesson 3, I've delved into the art of joining and merging data using pandas. This lesson covers:
+- Basic data merging with inner joins and one-to-many relationships.
+- Merging multiple DataFrames effectively and handling different join types.
+- Advanced techniques such as filtering joins and merging ordered/time-series data.
+
+Stay tuned for more lessons as I continue my journey to master Python programming!
+
+
 ## How to Use This Repository
 
 - Each lesson will be documented in its own folder.
