@@ -52,6 +52,11 @@ In Lesson 3, I've delved into the art of joining and merging data using pandas. 
 - Merging multiple DataFrames effectively and handling different join types.
 - Advanced techniques such as filtering joins and merging ordered/time-series data.
 
+### Lesson 4: Advanced Data Visualization with Matplotlib
+
+Building upon the previous lesson, I've delved deeper into data visualization techniques using Matplotlib. This lesson covers customizing plots, plotting time-series data, quantitative comparisons, and sharing visualizations.
+
+
 Stay tuned for more lessons as I continue my journey to master Python programming!
 
 
