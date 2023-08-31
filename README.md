@@ -23,6 +23,8 @@ Pandas is the world's most popular Python library, used for everything from data
 - Grouping data and calculating group-wise summary statistics using `groupby()`.
 - Introducing pivot tables for alternate data summarization.
 
+[Link to Lesson 1](./Lesson%201)
+
 I'm excited to continue my learning journey and dive deeper into the world of Python programming. Stay tuned for more updates and lessons!
 
 ### Lesson 2: Slicing and Indexing, Creating and Visualizing DataFrames
@@ -43,6 +45,8 @@ In Lesson 2, I've explored essential techniques for slicing and indexing data in
 - Analyzing changes in sales over time and supply-demand relationships.
 - Handling missing values using `isna()` and `isna().any()` methods.
 
+[Link to Lesson 2](./Lesson%202)
+
 Stay tuned for more as I continue to enhance my Python skills and explore new concepts!
 
 ### Lesson 3: Joining Data with Pandas
@@ -52,10 +56,33 @@ In Lesson 3, I've delved into the art of joining and merging data using pandas. 
 - Merging multiple DataFrames effectively and handling different join types.
 - Advanced techniques such as filtering joins and merging ordered/time-series data.
 
+[Link to Lesson 3](./Lesson%203)
+
 ### Lesson 4: Advanced Data Visualization with Matplotlib
 
 Building upon the previous lesson, I've delved deeper into data visualization techniques using Matplotlib. This lesson covers customizing plots, plotting time-series data, quantitative comparisons, and sharing visualizations.
 
+[Link to Lesson 4](./Lesson%204)
+
+### Lesson 5: Introduction to Data Visualization with Seaborn
+
+In Lesson 5, I delve into **Data Visualization with Seaborn**, an essential skill to communicate insights from data effectively. Here's a summarized overview of the lesson:
+
+- **Introduction to Seaborn**: Explore the significance of data visualization and the advantages of using Seaborn for creating appealing visualizations.
+
+- **Visualizing Quantitative Data**: Learn to create scatter plots to depict numerical relationships and utilize count plots to visualize categorical data distribution.
+
+- **Combining Pandas with Seaborn**: Integrate Seaborn with Pandas DataFrames, enhance visualizations using hue, size, and style parameters.
+
+- **Visualizing Multivariate Data**: Use `relplot()` for subplots and explore relationships between quantitative variables with customized scatter plots.
+
+- **Visualizing Categorical and Quantitative Data**: Utilize count plots, bar plots, box plots, and point plots to represent categorical and quantitative relationships.
+
+- **Styling and Customizing Visualizations**: Change plot styles, contexts, and customize visual elements for enhanced aesthetics.
+
+- **Crafting Comprehensive Visualizations**: Apply skills to create complex visualizations with real-world data by combining various Seaborn functions.
+
+[Link to Lesson 5](./Lesson%205)
 
 Stay tuned for more lessons as I continue my journey to master Python programming!
 
