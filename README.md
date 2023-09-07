@@ -52,6 +52,7 @@ Stay tuned for more as I continue to enhance my Python skills and explore new co
 ### Lesson 3: Joining Data with Pandas
 
 In Lesson 3, I've delved into the art of joining and merging data using pandas. This lesson covers:
+
 - Basic data merging with inner joins and one-to-many relationships.
 - Merging multiple DataFrames effectively and handling different join types.
 - Advanced techniques such as filtering joins and merging ordered/time-series data.
@@ -102,9 +103,27 @@ In Lesson 6, we consolidate our understanding of Python by covering advanced top
 
 [Link to Lesson 6](./Lesson%206)
 
+### Lesson 7: Intermediate Data Visualization with Seaborn
+
+In Lesson 7, we'll dive deeper into data visualization with Seaborn, building upon the skills acquired in Lesson 5. This lesson will cover:
+
+- **Seaborn Introduction**: A brief overview of Seaborn and its advantages in data visualization.
+
+- **Regression Plots in Seaborn**: Explore regression plots, including `regplot()` and `lmplot()`, for visualizing relationships between variables.
+
+- **Customizing Seaborn Plots**: Learn to customize Seaborn styles, colors, and visual elements to create visually appealing and informative plots.
+
+- **Additional Plot Types**: Dive into various categorical plot types, such as strip plots, swarm plots, box plots, violin plots, and more. Explore regression plots and matrix plots for in-depth data analysis.
+
+- **Creating Plots on Data Aware Grids**: Discover the power of FacetGrid, factorplot, lmplot, PairGrid, and pairplot for creating complex and informative visualizations.
+
+- **Using JointGrid and jointplot**: Learn to work with JointGrid and jointplot for visualizing relationships between two variables.
 
 Stay tuned for more lessons as I continue my journey to master Python programming!
 
+[Link to Lesson 7](./Lesson%207)
+
+Stay tuned for more lessons as I continue my journey to master Python programming!
 
 ## How to Use This Repository
 
@@ -119,4 +138,3 @@ I'd love to connect with fellow learners, programmers, and enthusiasts. If you h
 Happy coding and learning!
 
 [![Follow me on GitHub](https://img.shields.io/github/followers/Adham-XIII?label=Follow&style=social)](https://github.com/Adham-XIII)
-
