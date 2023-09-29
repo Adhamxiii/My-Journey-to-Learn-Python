@@ -81,7 +81,7 @@ In Lesson 5, I delve into **Data Visualization with Seaborn**, an essential skil
 
 - **Styling and Customizing Visualizations**: Change plot styles, contexts, and customize visual elements for enhanced aesthetics.
 
-- **Crafting Comprehensive Visualizations**: Apply skills to create complex visualizations with real-world data by combining various Seaborn functions.
+- **Crafting Comprehensive Visualizations**: Apply skills to create c'omplex visualizations with real-world data by combining various Seaborn functions.
 
 [Link to Lesson 5](./Lesson%205)
 
@@ -124,6 +124,24 @@ Stay tuned for more lessons as I continue my journey to master Python programmin
 [Link to Lesson 7](./Lesson%207)
 
 Stay tuned for more lessons as I continue my journey to master Python programming!
+
+### Lesson 8: Importing Data from the Internet
+
+In Lesson 8, we explore the fascinating world of importing data from the Internet. As a data scientist, the ability to fetch data from online sources is crucial, and Python equips us with powerful tools for this task.
+
+- **Importing Flat Files from the Web:** We'll learn how to import data from flat files found on the web, including CSV files. You'll discover various methods and libraries for reading and manipulating this data.
+
+- **Importing Data from Other File Types:** Data on the web isn't always in CSV format. We'll delve into importing data from other file types like SAS, Stata, HDF5, and even Matlab files.
+
+- **Working with Relational Databases in Python:** Databases are the backbone of data-driven applications. You'll master the art of creating a database engine, querying databases, and even leveraging Pandas for database interactions.
+
+- **Interacting with APIs to Import Data from the Web:** Many online services provide APIs for data access. We'll explore how to interact with APIs and retrieve data in JSON format.
+
+- **Diving Deep into the Twitter API:** Twitter is a treasure trove of data. We'll dive into the Twitter API, authenticate with your credentials, and explore real-time data retrieval and analysis.
+
+Feel free to explore the code, documentation, and my progress at any time.
+
+[Link to Lesson 8](./Lesson%208)
 
 ## How to Use This Repository
 
