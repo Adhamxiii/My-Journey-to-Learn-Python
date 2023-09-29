@@ -143,6 +143,33 @@ Feel free to explore the code, documentation, and my progress at any time.
 
 [Link to Lesson 8](./Lesson%208)
 
+### Lesson 9: Cleaning Data in Python
+
+Data cleaning is a crucial step in the data analysis process, ensuring that your data is accurate, consistent, and ready for analysis. In this lesson, we cover:
+
+#### Common Data Problems
+
+- Data Type Constraints: Identifying and addressing issues related to data types.
+- Data Range Constraints: Handling data that falls outside valid value ranges.
+- Uniqueness Constraints: Detecting and eliminating duplicate records.
+
+#### Text and Categorical Data Problems
+
+- Membership Constraints: Identifying and handling unexpected categorical values.
+- Categorical Variables: Cleaning and standardizing categorical data.
+- Remapping Categories: Recategorizing variables for better analysis.
+
+#### Advanced Data Problems
+
+- Uniformity: Ensuring uniformity across your dataset for improved consistency.
+- Completeness: Handling missing data to ensure your dataset is complete.
+
+[Link to Lesson 9](./Lesson%209)
+
+...
+
+I'm excited to continue my learning journey and dive deeper into the world of Python programming. Stay tuned for more updates and lessons!
+
 ## How to Use This Repository
 
 - Each lesson will be documented in its own folder.
