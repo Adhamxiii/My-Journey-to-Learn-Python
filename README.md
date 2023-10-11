@@ -170,6 +170,20 @@ Data cleaning is a crucial step in the data analysis process, ensuring that your
 
 I'm excited to continue my learning journey and dive deeper into the world of Python programming. Stay tuned for more updates and lessons!
 
+### Lesson 10: Working with Dates and Times in Python
+
+In Lesson 10, we delve into the intricate world of working with dates and times in Python. Understanding temporal data is crucial for various applications, including data analysis and visualization. In this lesson, I explore topics like:
+
+- **Dates in Python:** Learn to work with date objects and their attributes, such as day, month, and year.
+- **Math with Dates:** Calculate the difference between dates, determine the day of the week, and more.
+- **Turning Dates into Strings:** Transform dates into user-friendly string representations.
+- **Dates and Times:** Explore how Python handles both dates and times together.
+- **Printing and Parsing Datetimes:** Understand how to format and parse datetime objects.
+- **Working with Durations:** Learn to work with time durations, including calculating the average, shortest, and longest durations.
+- **Time Zones and Daylight Saving:** Explore the challenges of time zones and daylight saving time in data analysis.
+
+[Link to Lesson 10](./Lesson%2010)
+
 ## How to Use This Repository
 
 - Each lesson will be documented in its own folder.
